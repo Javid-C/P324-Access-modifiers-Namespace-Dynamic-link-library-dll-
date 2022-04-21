@@ -6,6 +6,6 @@ namespace MyClasses
     {
         protected string Name;
         protected internal string Surname;
-         protected byte Age;
+        private protected byte Age;
     }
 }
